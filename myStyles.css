@@ -4,5 +4,10 @@ header {
 
 p {
   color: red;
+ 
+}
+
+footer {
+  text-align: center;
   font-family: Arial;
 }
